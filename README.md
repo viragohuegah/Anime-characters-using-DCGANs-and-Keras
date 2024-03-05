@@ -26,14 +26,14 @@ handle the machine learning method called Deep Convolutional Generative adversar
 ## Setup
 You can setup your project by Installing Required Libraries:
 
-- pandas for managing the data.
-- numpy for mathematical operations.
-- sklearn for machine learning and machine-learning-pipeline related functions.
-- seaborn for visualizing the data.
-- matplotlib for additional plotting tools.
-- keras for loading datasets.
-- tensorflow for machine learning and neural network related functions.
-- skillsnetwork A library for working with Skills Network Python labs.
+- `pandas` for managing the data.
+- `numpy` for mathematical operations.
+- `sklearn` for machine learning and machine-learning-pipeline related functions.
+- `seaborn` for visualizing the data.
+- `matplotlib` for additional plotting tools.
+- `keras` for loading datasets.
+- `tensorflow` for machine learning and neural network related functions.
+- `skillsnetwork` A library for working with Skills Network Python labs.
     
 ```bash
 pip install <library_name>
