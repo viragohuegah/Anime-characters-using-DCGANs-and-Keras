@@ -12,7 +12,6 @@ handle the machine learning method called Deep Convolutional Generative adversar
 2. [Setup](#setup)
 3. [Project Status](#project-status)
 4. [Authors](#authors)
-5. [Contributors](#contributors)
 
 
 <a name="mentee-info"></a>
